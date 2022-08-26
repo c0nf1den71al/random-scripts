@@ -1,3 +1,4 @@
+# A python script which generates Java SSTI payloads.
 import argparse
 
 parser = argparse.ArgumentParser(description='Java SSTI payload generator')
